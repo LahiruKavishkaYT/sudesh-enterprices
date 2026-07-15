@@ -254,7 +254,7 @@ export default function Inventory() {
           <img src={heroSuv} alt="Dark SUV hero" className="w-full h-full object-cover" />
           <div
             className="absolute inset-0 pointer-events-none"
-            style={{ background: 'linear-gradient(90deg,rgba(8,9,11,.97) 0%,rgba(8,9,11,.9) 55%,rgba(8,9,11,.6) 100%)' }}
+            style={{ background: 'linear-gradient(90deg,rgba(8,9,11,.97) 0%,rgba(8,9,11,.88) 40%,rgba(8,9,11,.25) 75%)' }}
           />
           <div
             className="absolute left-0 right-0 bottom-0 h-16 sm:h-20 pointer-events-none"

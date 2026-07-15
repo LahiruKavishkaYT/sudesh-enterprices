@@ -36,7 +36,7 @@ export default function Home() {
             className="absolute inset-0 pointer-events-none"
             style={{
               background:
-                'linear-gradient(90deg,rgba(8,9,11,.96) 0%,rgba(8,9,11,.9) 45%,rgba(8,9,11,.55) 75%,rgba(8,9,11,.6) 100%)',
+                'linear-gradient(90deg,rgba(8,9,11,.96) 0%,rgba(8,9,11,.85) 35%,rgba(8,9,11,.25) 70%,rgba(8,9,11,.45) 100%)',
             }}
           />
           <div
@@ -211,7 +211,7 @@ export default function Home() {
             className="absolute inset-0 pointer-events-none"
             style={{
               background:
-                'linear-gradient(180deg,rgba(8,9,11,.55) 0%,rgba(8,9,11,.85) 55%,#08090b 100%), linear-gradient(90deg,rgba(8,9,11,.4) 0%,rgba(8,9,11,.75) 45%,rgba(8,9,11,.4) 100%)',
+                'linear-gradient(180deg,rgba(8,9,11,.35) 0%,rgba(8,9,11,.65) 60%,rgba(8,9,11,.85) 100%), linear-gradient(90deg,rgba(8,9,11,.75) 0%,rgba(8,9,11,.45) 45%,rgba(8,9,11,.15) 100%)',
             }}
           />
           <div className="relative flex flex-col lg:flex-row lg:items-center gap-6 lg:gap-10 p-6 sm:p-10 lg:p-10 xl:p-12 xl:pl-[270px] min-h-[180px] pointer-events-none">
@@ -286,8 +286,7 @@ export default function Home() {
           <div
             className="absolute inset-0 pointer-events-none"
             style={{
-              background:
-                'linear-gradient(180deg,rgba(19,20,23,.6) 0%,rgba(19,20,23,.95) 55%) , linear-gradient(90deg,rgba(19,20,23,.95) 0%,rgba(19,20,23,.7) 45%,rgba(19,20,23,0) 75%)',
+              background: 'linear-gradient(90deg,rgba(19,20,23,.95) 0%,rgba(19,20,23,.7) 45%,rgba(19,20,23,0) 75%)',
             }}
           />
           <div className="flex-1 relative">
@@ -391,8 +390,7 @@ export default function Home() {
             <div
               className="absolute inset-0"
               style={{
-                background:
-                  'linear-gradient(180deg,rgba(13,14,17,.5) 0%,rgba(13,14,17,.92) 60%), linear-gradient(90deg,rgba(13,14,17,.95) 0%,rgba(13,14,17,.7) 40%,rgba(13,14,17,0) 70%)',
+                background: 'linear-gradient(90deg,rgba(13,14,17,.95) 0%,rgba(13,14,17,.7) 40%,rgba(13,14,17,0) 70%)',
               }}
             />
             <div className="relative p-6 sm:p-10">
